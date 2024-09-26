@@ -2,7 +2,7 @@
 BasedOnStyle: Webkit
 Language: Cpp
 SpaceBeforeParens: Always
-SpaceAfterTemplateKeyword: true
+SpaceAfterTemplateKeyword: false
 Standard: Cpp11
 TabWidth: 4
 IndentWidth: 4
